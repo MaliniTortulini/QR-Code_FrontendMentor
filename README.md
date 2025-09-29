@@ -4,13 +4,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-### Screenshot
+### Screenshot of finished product
 
 ![screenshot of finished product](finishedProduct.png)
 
